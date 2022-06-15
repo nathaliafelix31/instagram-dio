@@ -1,4 +1,4 @@
-# 📚💻 Santander Bootcamp Fullstack Developer
+# 📚💻 Digital Innovation One
 ## 📱 Instagram login page
 
 Nesse projeto reconstrui a página de login do Instagram. Para isso, usei CSS com Flexbox, 
